@@ -7,7 +7,7 @@ Sha-256 Libruary for Arduino aplications. Has Very compact code 2240 bytes after
 #include "sha256.h"
 
 void setup() {
-  // put your setup code here, to run once:
+  // for print control sample in console
   Serial.begin(9600);
 }
 
