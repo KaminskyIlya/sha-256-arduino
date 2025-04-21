@@ -2,6 +2,7 @@
 Sha-256 Libruary for Arduino aplications. Has Very compact code 2240 bytes after compile.
 
 # usage
+```c
 #include <SoftwareSerial.h>
 #include "sha256.h"
 
@@ -35,3 +36,4 @@ void loop() {
 }
 
 // 3 550 bytes compiled for Arduino Nano/ATmega328P
+```
